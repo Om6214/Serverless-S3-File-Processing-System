@@ -21,7 +21,7 @@ When a file is uploaded to an S3 bucket:
 
 ## Architecture
 
-![alt text](<Screenshot from 2026-01-17 21-43-01.png>)
+![alt text](assets//output1.png)
 
 ---
 
@@ -84,8 +84,8 @@ In this lab environment, execution role modification was restricted, so S3 write
 
 ## Sample Log Output
 
-![alt text](<Screenshot from 2026-01-17 22-43-08.png>)
-![alt text](<Screenshot from 2026-01-17 22-48-00.png>)
+![alt text](assets/output2.png)
+![alt text](assets/output3.png)
 
 ## Key Learnings
 
